@@ -1,5 +1,5 @@
 streamlit
 flask
-opencv-python
+opencv-python-headless
 numpy
 mediapipe
